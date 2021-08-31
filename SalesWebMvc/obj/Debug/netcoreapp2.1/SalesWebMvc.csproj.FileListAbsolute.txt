@@ -33,3 +33,4 @@ C:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC
 C:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
