@@ -40,7 +40,6 @@ namespace SalesWebMvc.Migrations
                     Date = table.Column<DateTime>(nullable: false),
                     Amount = table.Column<double>(nullable: false),
                     Status = table.Column<int>(nullable: false),
-                    MyProperty = table.Column<int>(nullable: false),
                     SellerId = table.Column<int>(nullable: true)
                 },
                 constraints: table =>

@@ -38,9 +38,7 @@ namespace SalesWebMvc.Migrations
 
                     b.Property<double>("Amount");
 
-                    b.Property<DateTime>("Date");
-
-                    b.Property<int>("MyProperty");
+                    b.Property<DateTime>("Date");               
 
                     b.Property<int?>("SellerId");
 
