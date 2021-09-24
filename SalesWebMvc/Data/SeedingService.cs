@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using SalesWebMvc.Models;
 using SalesWebMvc.Models.Enums;
 
@@ -9,14 +7,14 @@ namespace SalesWebMvc.Data
 {
     public class SeedingService
     {
-        private SalesWebMvcContext _context;
+        private SalesWebMvcContext _context;  
 
-        public SeedingService (SalesWebMvcContext context)
+        public SeedingService (SalesWebMvcContext context) 
         {
-            _context = context;
+            _context = context; //AQUI ESTAMOS REALIZANDO A INJECAO DE DEPENDENCIA
         }
 
-        public void Seed() 
+        public void Seed()  //ESSA OPERACAO É RESPONSAVEL POR POPULAR MINHA BASE DE DADOS
         {
             if (_context.Department.Any() || //AQUI ESTAMOS TESTANDO SE EXISTE ALGUM REGISTRO NA BASE DE DADOS
                 _context.Seller.Any() ||
