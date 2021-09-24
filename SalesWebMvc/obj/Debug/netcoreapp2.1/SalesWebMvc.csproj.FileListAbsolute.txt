@@ -83,3 +83,4 @@ E:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC
 E:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 E:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 E:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+E:\Users\WALISSON\Documents\Curso C#\Secao 18 - Projeto Sistema web ASP .NET MVC e Entity Framework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
